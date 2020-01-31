@@ -1,0 +1,130 @@
+body{
+  background-color:black;
+  font-family: Helvetica; 
+  color: white;
+  font-size:18px;
+}
+
+.container{
+  position:relative;
+  width: 80px;
+  height:80px;
+  border: 1px solid white;
+  top:200px;
+  margin: auto; 
+  box-sizing: border-box; 
+}
+
+.pixel {
+  content:"";
+  width: 10px; 
+  height: 10px;
+  background-color:brown;
+  position: absolute;
+}
+#secondpixel{
+  left:10px;
+  background-color: brown;
+}
+
+#thirdpixel {
+  right: 10px;
+  position: right;
+  background-color: brown;
+}
+
+#fourthpixel {
+  right: 0px;
+  position: right;
+  background-color: brown;
+}
+
+#fourthpixel {
+  right: 0px;
+  position: right;
+  background-color: brown;
+}
+
+#fifthpixel {
+  right: 10px;
+  position: right;
+  background-color: brown;
+}
+
+#sixpixel {
+  bottom: 50px;
+  position: bottom;
+  background-color: light brown;
+}
+
+#sevenpixel {
+  bottom: 60px;
+  position: bottom;
+  background-color: light brown;
+}
+
+#eightpixel {
+  bottom: 40px;
+  position: bottom;
+  background-color: white;
+}
+
+#ninepixel {
+  bottom: 10px;
+  position: left;
+  background-color: pink;
+}
+
+#tenpixel {
+  bottom: 20px;
+  position: left;
+  background-color: pink;
+}
+
+#elevenpixel {
+  bottom: 30px;
+  position: left;
+  background-color: pink;
+}
+
+#twelvepixel {
+  left: 20px;
+  position: center;
+  background-color: pink;
+}
+
+#thirteenpixel {
+  left: 30px;
+  position: center;
+  background-color: pink;
+}
+
+#fourteenpixel {
+  left: 40px;
+  position: center;
+  background-color: pink;
+}
+#fifteenpixel {
+  left: 50px;
+  position: center;
+  background-color: pink;
+}
+
+#sixteenpixel {
+  left: 40px;
+  position: left;
+  background-color: white;
+}
+
+#seventeenpixel {
+  left: 20px;
+  position: left;
+  background-color: white;
+}
+
+
+#seventeenpixel {
+  left: 20px;
+  position: left;
+  background-color: white;
+}
