@@ -15,6 +15,22 @@
 
     color: #000000;
     }
+.refrence {
+position: absolute;
+width: 532px;
+height: 39px;
+left: 843px;
+top: 891px;
+
+font-family: Times New Roman;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 14px;
+letter-spacing: -0.065em;
+
+color: #000000;
+}
 
     .textone {
     position: absolute;
